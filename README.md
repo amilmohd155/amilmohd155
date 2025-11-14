@@ -1,26 +1,27 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# Hi, I'm Amil👋
+...but just call me <b><i>docren</i></b>. Yep, totally messed up my GitHub username.
 
-<h1 align="center">Hi 👋, I'm Amil Muhammed Hamza</h1>
-<h3 align="center">Code wizard by day, digital artist by night. Crafting sleek web and mobile apps with React, React Native, NextJs, and a sprinkle of magic. 🚀✨</h3>
+---
 
-- 🌱 I’m currently learning **Next.js, Expo**
+### Loves development, Web or Native... but definitely leaning hard towards Native. 📱
 
-- 👨‍💻 All of my projects are available at [https://amilmohd155.vercel.app/](https://amilmohd155.vercel.app/)
+- Currently cooking up something hot with Expo and React Native. (Praying it sees the light of day. 🤞)
 
-- 📝 I regularly write articles on [https://medium.com/@amilmohd155](https://medium.com/@amilmohd155)
+- Tinkered with React Native a while back and two packages accidentally fell out: 
+    - [react-native-markdown](https://www.npmjs.com/package/@docren/react-native-markdown)
+    - [react-native-reanimated-timer](https://www.npmjs.com/package/@docren/react-native-reanimated-timer)
 
-- 📫 How to reach me **amilmohd155@gmail.com**
+- 👨‍💻 More about me and some blogs -> [amilmohd.dev](https://amilmohd.dev/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📝 I occasionally write articles on [medium](https://medium.com/@amilmohd155)
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **amilmohd155@gmail.com**.
+
+<h3 align="left">Or try these: </h3>
 <p align="left">
 <a href="https://twitter.com/amilmohd155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amilmohd155" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amil-muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amil-muhammed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23015660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23015660" height="30" width="40" /></a>
-<a href="https://codesandbox.com/amilmohd155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="amilmohd155" height="30" width="40" /></a>
 <a href="https://medium.com/@amilmohd155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amilmohd155" height="30" width="40" /></a>
 </p>
 
